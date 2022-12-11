@@ -60,6 +60,8 @@ As such, our models have shown that they are capable of generating captions whic
 
 We can also observe that the models are learning and improving the quality of the caption with increasing number of epochs. From the image above which used the VGG19 LSTM model, we can see the caption from the model after 1 epoch results in the caption “the child is wearing red hat and holding the face of the water” while the caption fo the model trained for 50 epochs is “girl in pink goggles is swimming in the snow”. It appears that the models are learning information as it was able to identify water but the last model predicted snow which isn’t correct.
 
+![image](https://user-images.githubusercontent.com/53500810/206885396-46124802-c938-4fa2-bae2-a07657dfa5ff.png)
+
 ### Remaining Issues and Recommendations
 This report details the process and the results of training an image captioning model within the time allotted for this task. With more time, there are some avenues that would have been further explored, especially in the hope of increasing the BLEU-4 score on the Flickr8k dataset and creating a model capable of accurately captioning the majority of images.
 
@@ -72,5 +74,5 @@ As for immediate recommendations for the model in its current state, there is a 
 
 Though, to further develop and explore these ideas, the current limitation of computational resources available should ideally be solved. For the development of this report, the majority of the team used Google Colaboratory. While this is a powerful tool with a host of packages already available to use, the limitations on time and GPU usage make training deep learning models very difficult. Fortunately one team member had their own dedicated GPU, capable of training the models at a similar speed to the Colab notebooks. However, ideally all team members should be able to work in an IDE that does log them out after a time limit.
 
-![image](https://user-images.githubusercontent.com/53500810/206885396-46124802-c938-4fa2-bae2-a07657dfa5ff.png)
+
 
