@@ -1,4 +1,4 @@
-# Image-Caption-generation
+# Image Caption generation Flicr 8k dataset
 
 Full report available here. It was written with other members of the UTS MDSI Deep Learning subject cohort.
 
