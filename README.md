@@ -1,6 +1,6 @@
 # Image-Caption-generation
 
-# Full report available here. It was written with other members of the UTS MDSI Deep Learning subject cohort.
+Full report available here. It was written with other members of the UTS MDSI Deep Learning subject cohort.
 
 https://github.com/Declan-Stockdale/Image-Caption-generation/blob/master/Assignment%203%20Report.docx
 
